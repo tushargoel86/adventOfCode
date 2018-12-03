@@ -1,5 +1,3 @@
-package adventOfCode2015;
-
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
@@ -7,7 +5,7 @@ import java.nio.file.Paths;
 public class Day2 {
 
 	public static void main(String[] args) throws IOException {
-		Integer totalArea = Files.lines(Paths.get("C:\\Users\\tgoel\\Documents\\docs\\java-script\\advent-of-code\\2015\\day02\\Day2-input.txt"))
+		Integer totalArea = Files.lines(Paths.get("Day2-input.txt"))
 			.map(line -> line.split("x"))
 			.map(Prism::area)
 			.reduce(Math::addExact)
