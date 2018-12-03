@@ -22,7 +22,9 @@ class Prism {
 		int wid = Integer.valueOf(input[1]);
 		int hi = Integer.valueOf(input[2]);
 		int area = 2 * (len * wid + wid * hi + hi * len);
+		
 		area += Math.min(len*wid, Math.min(wid*hi, hi*len));
+		
 		return area;
 	}
 	
