@@ -16,3 +16,14 @@
   
       http://adventofcode.com/2015/day/3
    - Part 1 and 2 solved using ES6
+   
+  # Day04
+  
+      http://adventofcode.com/2015/day/4
+    - Part 1 and 2 solved using ES6
+
+
+  # Day05
+  
+       http://adventofcode.com/2015/day/5
+     - Solved using Java 8
