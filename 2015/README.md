@@ -27,3 +27,8 @@
   
        http://adventofcode.com/2015/day/5
      - Solved using Java 8
+
+  # Day06
+    
+      http://adventofcode.com/2015/day/7
+    - Part 1 and 2 solved using ES6
