@@ -49,8 +49,8 @@ const incrementStr = string => {
 
 };
   
-let result = 'cqjxjnds';
-
+let result = 'cqjxxyzz';
+result = incrementStr(result);
 while (!isValidPassword(result)) {
     result = incrementStr(result);
 }
