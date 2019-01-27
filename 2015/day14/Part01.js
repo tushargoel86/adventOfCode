@@ -31,7 +31,7 @@ class Player {
  }
 
  var fs = require('fs');
- const INPUT = fs.readFileSync('c://Users/tgoel/Documents/docs/java-script/advent-of-code/adventOfCode/2015/day14/input.txt', 'utf-8').split('\n');
+ const INPUT = fs.readFileSync('input.txt', 'utf-8').split('\n');
  const NUM_REGEX = /[0-9]+/g;
 
  var distances = INPUT
