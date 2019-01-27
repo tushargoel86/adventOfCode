@@ -49,8 +49,12 @@ const incrementStr = string => {
 
 };
   
+<<<<<<< HEAD
 let result = 'cqjxjnds';
 
+=======
+let result = 'cqjxxyzz';
+>>>>>>> 3cad672bb6e71ff33611b3a6fe93152808e6f45c
 while (!isValidPassword(result)) {
     result = incrementStr(result);
 }
