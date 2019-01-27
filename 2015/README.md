@@ -65,3 +65,8 @@
       http://adventofcode.com/2015/day/12
     - Part 1 and 2 solved using Java 8
     
+   # Day14
+    
+      http://adventofcode.com/2015/day/14
+    - Part 1 and 2 solved using ES6
+    
